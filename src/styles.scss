@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'ag-grid-community/dist/styles/ag-grid.css';
+@import 'ag-grid-community/dist/styles/ag-theme-alpine.css';
+
+html, body {
+    background-color: rgb(219, 219, 240);
+    margin: 0;
+
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+
+    .sick-warning {
+        background-color: rgb(238, 22, 6) !important;
+      }
+}
