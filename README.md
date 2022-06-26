@@ -5,19 +5,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Functionality 
 This projects use the two npm libs 
     1) ag-grid -> grid wich supports the add row and edit row inline 
-    2) uuid -> generate the unique Id for each people added.
-Note: ag-grid, after seeing the in-line edit statement from the assignment, decided to go with ag-grid which i was used long back for now this assignment helped to revise my ag-grid knowledge i can there lot many changes from the version i have used and the current version.
+    2) uuid -> generate the unique Id for each people that has been added.
+Note: ag-grid, after seeing the in-line edit statement from the assignment, decided to go with ag-grid which i was used long back in this assignment,it helped me to revise my ag-grid knowledge where i can see lot many changes from the version i have used and to the current version.
 
 # Highlites
 1) Not used to dialog modal for adding the People information.
 2) All the functionality has been covered under a single page.
-3) Hilighed Newly added row with red color.
-4) Implemented the lazy loading concept in angular which is one of the beset practices we have to follow
-5) On Tab Use ca able to provide the inputes it will be easy
+3) Highlighted Newly added row with red color.
+4) Implemented the lazy loading concept in angular which is one of the best practices we have to follow
+5) On Tab Use can able to provide the inputes it will be easy
 6) No CSS frames works has been used.
 
 
-# Desingn Pattern
+# Design Patterns
 1) Constructor Design Pattern -> Grid Columns.
 2) Prototype Pattern -> DatePiker
 3) Module Design Pattern -> used for lazy Loading
@@ -25,7 +25,7 @@ Note: ag-grid, after seeing the in-line edit statement from the assignment, deci
 
 # Improvements 
 1) Validation for user inputs
-2) Grid can be render in any resolutions but colum headers shown as ... in lower resulution but there is no prlblem in providing inputs.
+2) Grid can be render in any resolutions but colum headers shown as ... in lower resolution however there is no prlblem in providing inputs.
 
 
 
